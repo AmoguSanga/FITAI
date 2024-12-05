@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FITAI/static/css/main.23e7a9ff.css",
+    "main.js": "/FITAI/static/js/main.0f4148b5.js",
+    "static/js/453.ed3810f9.chunk.js": "/FITAI/static/js/453.ed3810f9.chunk.js",
+    "static/media/companion.png": "/FITAI/static/media/companion.6f53ba384bef82bfb6a8.png",
+    "static/media/information.png": "/FITAI/static/media/information.575b8a64e24f84b91cbf.png",
+    "static/media/customize.png": "/FITAI/static/media/customize.6b2176d24d7f933a1b90.png",
+    "index.html": "/FITAI/index.html",
+    "main.23e7a9ff.css.map": "/FITAI/static/css/main.23e7a9ff.css.map",
+    "main.0f4148b5.js.map": "/FITAI/static/js/main.0f4148b5.js.map",
+    "453.ed3810f9.chunk.js.map": "/FITAI/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e7a9ff.css",
+    "static/js/main.0f4148b5.js"
+  ]
+}
